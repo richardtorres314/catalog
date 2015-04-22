@@ -1,0 +1,180 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+	background-color: Crimson;
+}
+
+#wrapper {
+	background-color: white;
+	width: 960px;
+	margin: 0 auto;
+}
+
+form table tr td select {
+	width: 240px;
+	height: 24px;
+}
+
+header h1 {
+	margin: 0;
+	padding: 20px;
+	text-align: center;
+	cursor: default;
+}
+
+header h1 a {
+	color: white;
+	text-decoration: none;
+}
+
+header {
+	background-image: url('/images/campus.jpg');
+	background-position: center;
+	background-size: cover;
+}
+
+#main-content {
+	margin: auto;
+	padding: 1em;
+	border-radius: 1em;
+	display: block;
+	text-align: center;
+	min-height: 480px;
+}
+
+#main-content h2 {
+	cursor: default;
+}
+
+form {
+	display: inline-block;
+	padding: 0;
+}
+
+form label {
+	float: left;
+}
+
+form select {
+	color: dimgray;
+	width: 240px;
+	height: 28px;
+}
+
+form label {
+	font-weight: bold;
+	margin: 0.5em 0;
+	display: inline-block;
+}
+
+form table {
+	margin: auto;
+	border-collapse: collapse;
+	border: 1px solid lightgray	;
+}
+
+form table th {
+	background-color: lightgray;
+}
+
+form table tr td {
+	width: 30px;
+}
+
+footer {
+	padding: 0.5em;
+	text-align: center;
+	color: dimgray;
+	font-weight: bold;
+	font-size: 14px;
+	background-color: white;
+}
+
+#submit {
+	height: 28px;
+	width: 120px;
+	background-color: darkblue;
+	cursor: pointer;
+	border: none;
+	font-weight: bold;
+	color: #EEE;
+}
+
+#submit:hover {
+	background-color: crimson;
+}
+
+#submit:active, #submit:focus {
+	background-color: crimson;
+	outline: none;
+}
+
+/**********************
+ *
+ * CSS for results
+ *
+ *********************/
+
+#content {
+	display: inline-block;
+	padding: 0.5em 2em;
+	min-height: 480px;
+	width: 894px;
+}
+
+#results-list {
+	display: inline-block;
+	padding: 0;
+	list-style-type: none;
+	margin: 0;
+	margin-top: 10px;
+}
+
+#results-list li p {
+	margin: 0;
+	line-height: 1.25em;
+}
+
+#results-list li:not(:last-child) {
+	margin-bottom: 1em;
+}
+
+#navbar {
+	font-weight: bold;
+	cursor: default;
+}
+
+#navbar a {
+	text-decoration: none;
+	color: crimson;
+}
+
+a {
+	text-decoration: none;
+}
+
+#pagelinks {
+	background-color: #BBB;
+	color: dimgray;
+	padding: 0.5em 1em;
+	cursor: default;
+	margin: 10px 0;
+}
+
+#pagelinks span {
+	cursor: default;
+}
+
+#pagelinks a {
+	color: #EEE;
+}
+
+#outputs {
+	cursor: default;
+	margin: 10px 0;
+}
+
+#outputs a {
+	color: crimson;
+	font-weight: bold;
+}

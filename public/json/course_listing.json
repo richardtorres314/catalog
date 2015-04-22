@@ -1,0 +1,805 @@
+{
+	"courses": {
+		"course": [
+			{
+				"-cat-id": "001",
+				"-fall-term": "Y",
+				"-spring-term": "Y",
+				"course-num": "101",
+				"title": "Intro to African Studies",
+				"department": {
+						"name": "African and African American Studies",
+						"code": "AAAS"
+				},
+				"group": "African Studies",
+				"schedule": {
+					"meeting": [
+					{
+						"-term": "1",
+						"-day": "1",
+						"-begin_time": "1430",
+						"-end_time": "1600"
+					},
+					{
+						"-term": "1",
+						"-day": "3",
+						"-begin_time": "1430",
+						"-end_time": "1600"
+					},
+					{
+						"-term": "1",
+						"-day": "5",
+						"-begin_time": "1430",
+						"-end_time": "1600"
+					}
+					]
+				},
+				"faculty_list": {
+					"faculty": [
+						{
+							"-term": "1",
+							"name": 
+								{
+									"first": "John",
+									"last": "Doe"
+								}
+							
+						},
+						{
+							"-term": "2",
+							"name":
+							{
+								"first": "Jane",
+								"last": "Doe"
+							}
+						}
+					]
+				},
+				"description": "This course covers the history and development of Africa from the pre-colonial era to modern day. There is a final project requirement for this course that culminates all topics discussed in this course."
+			},
+			{
+				"-cat-id": "002",
+				"-fall-term": "N",
+				"-spring-term": "Y",
+				"title": "Intro to Swahili",
+				"course-num": "210",
+				"department": {
+						"name": "African and African American Studies",
+						"code": "AAAS"
+				},
+				"group": "Swahili",
+				"schedule": {
+					"meeting": [ {
+						"-term": "2",
+						"-day": "1",
+						"-begin_time": "1430",
+						"-end_time": "1600"
+					},
+					{
+						"-term": "2",
+						"-day": "3",
+						"-begin_time": "1430",
+						"-end_time": "1600"
+					},
+					{
+						"-term": "2",
+						"-day": "5",
+						"-begin_time": "1430",
+						"-end_time": "1600"
+					}
+					]
+				},
+				"faculty_list": {
+					"faculty": [
+						{
+							"-term": "1",
+							"name": 
+								{
+									"first": "John",
+									"last": "Doe"
+								}
+							
+						},
+						{
+							"-term": "2",
+							"name":
+							{
+								"first": "Jane",
+								"last": "Doe"
+							}
+						}
+					]
+				},
+				"description": "In this introductory level course, students learn the fundamentals of the language Swahili and the cultures in the world that speak it. There are no prerequisites for this course."
+			},
+			{
+				"-cat-id": "003",
+				"-fall-term": "Y",
+				"-spring-term": "N",
+				"title": "Intermediate Swahili",
+				"course-num": "212",
+				"department": {
+						"name": "African and African American Studies",
+						"code": "AAAS"
+				},
+				"group": "Swahili",
+				"schedule": {
+					"meeting": [ {
+						"-term": "1",
+						"-day": "1",
+						"-begin_time": "1430",
+						"-end_time": "1600"
+					},
+					{
+						"-term": "1",
+						"-day": "3",
+						"-begin_time": "1430",
+						"-end_time": "1600"
+					},
+					{
+						"-term": "1",
+						"-day": "5",
+						"-begin_time": "1430",
+						"-end_time": "1600"
+					}
+					]
+				},
+				"faculty_list": {
+					"faculty": [
+						{
+							"-term": "1",
+							"name": 
+								{
+									"first": "John",
+									"last": "Doe"
+								}
+							
+						},
+						{
+							"-term": "2",
+							"name":
+							{
+								"first": "Jane",
+								"last": "Doe"
+							}
+						}
+					]
+				},
+				"description": "This course is intended for students with a beginner level of fluency in Swahili."
+			},
+			{
+				"-cat-id": "004",
+				"-fall-term": "Y",
+				"-spring-term": "Y",
+				"title": "Intro to Religious Studies",
+				"course-num": "101",
+				"department": {
+						"name": "Religious Studies",
+						"code": "REL"
+				},
+				"group": "Religious Studies",
+				"schedule": {
+					"meeting": [ {
+						"-term": "1",
+						"-day": "1",
+						"-begin_time": "1430",
+						"-end_time": "1600"
+					},
+					{
+						"-term": "1",
+						"-day": "3",
+						"-begin_time": "1430",
+						"-end_time": "1600"
+					},
+					{
+						"-term": "1",
+						"-day": "5",
+						"-begin_time": "1430",
+						"-end_time": "1600"
+					},
+					{
+						"-term": "2",
+						"-day": "1",
+						"-begin_time": "1430",
+						"-end_time": "1600"
+					},
+					{
+						"-term": "2",
+						"-day": "3",
+						"-begin_time": "1430",
+						"-end_time": "1600"
+					},
+					{
+						"-term": "2",
+						"-day": "5",
+						"-begin_time": "1430",
+						"-end_time": "1600"
+					}
+					]
+				},
+				"faculty_list": {
+					"faculty": [
+						{
+							"-term": "1",
+							"name":
+								{
+									"first": "Cabel",
+									"last": "Arteo"
+								}
+						},
+						{
+							"-term": "2",
+							"name":
+							{
+								"first": "Jane",
+								"last": "Doe"
+							}
+						}
+					]
+				},
+				"description": "Students discuss the history of the development of key religions in the world with extension into modern day belief systems. Students are required to parttake in at least 6 of the university's chapel services in the semester."
+			},
+			{
+				"-cat-id": "005",
+				"-fall-term": "Y",
+				"-spring-term": "Y",
+				"title": "Intro to Statistics",
+				"course-num": "101",
+				"department": {
+						"name": "Mathematics",
+						"code": "MATH"
+				},
+				"group": "Statistics",
+				"schedule": {
+					"meeting": [ {
+						"-term": "1",
+						"-day": "2",
+						"-begin_time": "900",
+						"-end_time": "1200"
+					},
+					{
+						"-term": "1",
+						"-day": "4",
+						"-begin_time": "900",
+						"-end_time": "1200"
+					},
+					{
+						"-term": "2",
+						"-day": "2",
+						"-begin_time": "900",
+						"-end_time": "1200"
+					},
+					{
+						"-term": "2",
+						"-day": "4",
+						"-begin_time": "900",
+						"-end_time": "1200"
+					}
+					]
+				},
+				"faculty_list": {
+					"faculty": [
+						{
+							"-term": "1",
+							"name":
+								{
+									"first": "Thoa",
+									"last": "Khanista"
+								}
+						},
+						{
+							"-term": "2",
+							"name":
+								{
+									"first": "John",
+									"last": "Doe"
+								}
+						}
+					]
+				},
+				"description": "This is a standard introduction to statistics course. Students learn the essentials of descriptive statistics, experimental design, and hypothesis testing. There are no prerequisites to this course."
+			},
+			{
+				"-cat-id": "006",
+				"-fall-term": "Y",
+				"-spring-term": "N",
+				"title": "Intro to Computer Science",
+				"course-num": "101",
+				"department": {
+						"name": "Computer Science",
+						"code": "CS"
+				},
+				"group": "Computer Science",
+				"schedule": {
+					"meeting": [ {
+						"-term": "1",
+						"-day": "1",
+						"-begin_time": "940",
+						"-end_time": "1040"
+					},
+					{
+						"-term": "1",
+						"-day": "3",
+						"-begin_time": "940",
+						"-end_time": "1040"
+					},
+					{
+						"-term": "1",
+						"-day": "5",
+						"-begin_time": "940",
+						"-end_time": "1040"
+					}
+					]
+				},
+				"faculty_list": {
+					"faculty": [
+						{
+							"-term": "1",
+							"name":
+								{
+									"first": "Wayne",
+									"last": "Clark"
+								}
+						}
+					]
+				},
+				"description": "This is an introductory computer science course. Students learn the fundamentals and principals of computer programming."
+			},
+			{
+				"-cat-id": "007",
+				"-fall-term": "N",
+				"-spring-term": "Y",
+				"title": "Intermediate Computer Science",
+				"course-num": "201",
+				"department": {
+						"name": "Computer Science",
+						"code": "CS"
+				},
+				"group": "Computer Science",
+				"schedule": {
+					"meeting": [ {
+						"-term": "2",
+						"-day": "1",
+						"-begin_time": "940",
+						"-end_time": "1040"
+					},
+					{
+						"-term": "2",
+						"-day": "3",
+						"-begin_time": "940",
+						"-end_time": "1040"
+					},
+					{
+						"-term": "2",
+						"-day": "5",
+						"-begin_time": "940",
+						"-end_time": "1040"
+					}
+					]
+				},
+				"faculty_list": {
+					"faculty": [
+						{
+							"-term": "2",
+							"name":
+								{
+									"first": "Rich",
+									"last": "Laude"
+								}
+						}
+					]
+				},
+				"description": "This is the second level of computer science courses. Complex algorithms and data structures are discussed in this course. Students are expected to have completed CS 101 with a B or higher."
+			},
+			{
+				"-cat-id": "008",
+				"-fall-term": "Y",
+				"-spring-term": "Y",
+				"title": "Techniques of Computer Science",
+				"course-num": "302",
+				"department": {
+						"name": "Computer Science",
+						"code": "CS"
+				},
+				"group": "Computer Science",
+				"schedule": {
+					"meeting": [
+					{
+						"-term": "1",
+						"-day": "1",
+						"-begin_time": "1000",
+						"-end_time": "1300"
+					},
+					{
+						"-term": "1",
+						"-day": "3",
+						"-begin_time": "1000",
+						"-end_time": "1300"
+					},
+					{
+						"-term": "2",
+						"-day": "1",
+						"-begin_time": "830",
+						"-end_time": "930"
+					},
+					{
+						"-term": "2",
+						"-day": "3",
+						"-begin_time": "830",
+						"-end_time": "930"
+					},
+					{
+						"-term": "2",
+						"-day": "5",
+						"-begin_time": "830",
+						"-end_time": "930"
+					}
+					]
+				},
+				"faculty_list": {
+					"faculty": [
+						{
+							"-term": "2",
+							"name":
+								{
+									"first": "Hermie",
+									"last": "Sander"
+								}
+						}
+					]
+				},
+				"description": "This course is intended for CS majors and minors. Students will learn the techniques implemented in object-oriented programming. This course is a prerequiste for advanced CS courses."
+			},
+			{
+				"-cat-id": "009",
+				"-fall-term": "Y",
+				"-spring-term": "N",
+				"title": "Calculus I",
+				"course-num": "101",
+				"department": {
+						"name": "Mathematics",
+						"code": "MATH"
+				},
+				"group": "Mathematics",
+				"schedule": {
+					"meeting": [ {
+						"-term": "1",
+						"-day": "1",
+						"-begin_time": "1150",
+						"-end_time": "1250"
+					},
+					{
+						"-term": "1",
+						"-day": "3",
+						"-begin_time": "1150",
+						"-end_time": "1250"
+					},
+					{
+						"-term": "1",
+						"-day": "5",
+						"-begin_time": "1150",
+						"-end_time": "1250"
+					}
+					]
+				},
+				"faculty_list": {
+					"faculty": [
+						{
+							"-term": "1",
+							"name":
+								{
+									"first": "Sandy",
+									"last": "O'Bryan"
+								}
+						}
+					]
+				},
+				"description": "This is an introductory level calculus course. Students are expected to have completed and be familiar with topics in precalculus."
+			},
+			{
+				"-cat-id": "010",
+				"-fall-term": "N",
+				"-spring-term": "Y",
+				"title": "Calculus II",
+				"course-num": "102",
+				"department": {
+						"name": "Mathematics",
+						"code": "MATH"
+				},
+				"group": "Mathematics",
+				"schedule": {
+					"meeting": [ {
+						"-term": "2",
+						"-day": "1",
+						"-begin_time": "1150",
+						"-end_time": "1250"
+					},
+					{
+						"-term": "2",
+						"-day": "3",
+						"-begin_time": "1150",
+						"-end_time": "1250"
+					},
+					{
+						"-term": "2",
+						"-day": "5",
+						"-begin_time": "1150",
+						"-end_time": "1250"
+					}
+					]
+				},
+				"faculty_list": {
+					"faculty": [
+						{
+							"-term": "2",
+							"name":
+								{
+									"first": "Leslie",
+									"last": "Meals"
+								}
+						}
+					]
+				},
+				"description": "This course is the second level of calculus. Students are expected to be familiar with techniques of differentiation and fundamentals of integration before entering the course."
+			},
+			{
+				"-cat-id": "011",
+				"-fall-term": "Y",
+				"-spring-term": "N",
+				"title": "Calculus III",
+				"course-num": "103",
+				"department": {
+						"name": "Mathematics",
+						"code": "MATH"
+				},
+				"group": "Mathematics",
+				"schedule": {
+					"meeting": [ {
+						"-term": "1",
+						"-day": "1",
+						"-begin_time": "940",
+						"-end_time": "1040"
+					},
+					{
+						"-term": "1",
+						"-day": "3",
+						"-begin_time": "940",
+						"-end_time": "1040"
+					},
+					{
+						"-term": "1",
+						"-day": "5",
+						"-begin_time": "940",
+						"-end_time": "1040"
+					}
+					]
+				},
+				"faculty_list": {
+					"faculty": [
+						{
+							"-term": "1",
+							"name":
+								{
+									"first": "Tracy",
+									"last": "Goodall"
+								}
+						}
+					]
+				},
+				"description": "This is the final course in the calculus sequence. Students will learn about partial derivatives, series, and simple ordinary differential equations. A prerequisite of completing Calculus I and Calculus II is required to enroll in this course."
+			},
+			{
+				"-cat-id": "012",
+				"-fall-term": "Y",
+				"-spring-term": "Y",
+				"title": "American Literature",
+				"course-num": "101",
+				"department": {
+						"name": "English",
+						"code": "ENG"
+				},
+				"group": "English",
+				"schedule": {
+					"meeting": [ {
+						"-term": "1",
+						"-day": "2",
+						"-begin_time": "1250",
+						"-end_time": "1420"
+					},
+					{
+						"-term": "1",
+						"-day": "4",
+						"-begin_time": "1250",
+						"-end_time": "1420"
+					},
+					{
+						"-term": "2",
+						"-day": "2",
+						"-begin_time": "1250",
+						"-end_time": "1420"
+					},
+					{
+						"-term": "2",
+						"-day": "4",
+						"-begin_time": "1250",
+						"-end_time": "1420"
+					}
+					]
+				},
+				"faculty_list": {
+					"faculty": [
+						{
+							"-term": "1",
+							"name":
+								{
+									"first": "James",
+									"last": "Finkle"
+								}
+						},
+						{
+							"-term": "2",
+							"name":
+								{
+									"first": "Kristen",
+									"last": "Maines"
+								}
+						}
+					]
+				},
+				"description": "This course covers American literature from 1600 - 1900. Students will read works in the forms of novels, short stories, and essays. No prerequisites for this course."
+			},
+			{
+				"-cat-id": "013",
+				"-fall-term": "N",
+				"-spring-term": "Y",
+				"title": "British Literature",
+				"course-num": "102",
+				"department": {
+						"name": "English",
+						"code": "ENG"
+				},
+				"group": "English",
+				"schedule": {
+					"meeting": [ {
+						"-term": "2",
+						"-day": "1",
+						"-begin_time": "1250",
+						"-end_time": "1420"
+					},
+					{
+						"-term": "2",
+						"-day": "3",
+						"-begin_time": "1250",
+						"-end_time": "1420"
+					}
+					]
+				},
+				"faculty_list": {
+					"faculty": [
+						{
+							"-term": "2",
+							"name":
+								{
+									"first": "Kristen",
+									"last": "Maines"
+								}
+						}
+					]
+				},
+				"description": "This course discusses British Literature from the 1600s to the early 1800s. Works include essays, novels, and short stories. There are no prerequisites to this course."
+			},
+			{
+				"-cat-id": "014",
+				"-fall-term": "Y",
+				"-spring-term": "Y",
+				"title": "Buddhism",
+				"course-num": "201",
+				"department": {
+						"name": "Religious Studies",
+						"code": "REL"
+				},
+				"group": "Buddhism",
+				"schedule": {
+					"meeting": [ {
+						"-term": "1",
+						"-day": "1",
+						"-begin_time": "940",
+						"-end_time": "1040"
+					},
+					{
+						"-term": "1",
+						"-day": "3",
+						"-begin_time": "940",
+						"-end_time": "1040"
+					},
+					{
+						"-term": "1",
+						"-day": "5",
+						"-begin_time": "940",
+						"-end_time": "1040"
+					},
+					{
+						"-term": "2",
+						"-day": "1",
+						"-begin_time": "940",
+						"-end_time": "1040"
+					},
+					{
+						"-term": "2",
+						"-day": "3",
+						"-begin_time": "940",
+						"-end_time": "1040"
+					},
+					{
+						"-term": "2",
+						"-day": "5",
+						"-begin_time": "940",
+						"-end_time": "1040"
+					}
+					]
+				},
+				"faculty_list": {
+					"faculty": [
+						{
+							"-term": "1",
+							"name":
+								{
+									"first": "Ghara",
+									"last": "Sinharu"
+								}
+						},
+						{
+							"-term": "2",
+							"name":
+							{
+								"first": "Cabel",
+								"last": "Arteo"
+							}
+						}
+					]
+				},
+				"description": "This course is explores the philosophy of Buddhism and its origins. Students will discuss the similarities and differences between Buddhism and other religious beliefs. Meditation will be incorporated in each class."
+			},
+			{
+				"-cat-id": "015",
+				"-fall-term": "N",
+				"-spring-term": "Y",
+				"title": "Introduction to Jewish Studies",
+				"course-num": "201",
+				"department": {
+						"name": "Religious Studies",
+						"code": "REL"
+				},
+				"group": "Jewish Studies",
+				"schedule": {
+					"meeting": [ {
+						"-term": "2",
+						"-day": "3",
+						"-begin_time": "1000",
+						"-end_time": "1130"
+					},
+					{
+						"-term": "2",
+						"-day": "5",
+						"-begin_time": "1000",
+						"-end_time": "1130"
+					}
+					]
+				},
+				"faculty_list": {
+					"faculty": [
+						{
+							"-term": "2",
+							"name":
+							{
+								"first": "Mordecai",
+								"last": "Stein"
+							}
+						}
+					]
+				},
+				"description": "In this intro level course, students learn about the origin of Jewish tradition and culture. Students will discuss the current state of the Jewish people."
+			}
+		]
+	}
+}
