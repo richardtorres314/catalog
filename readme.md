@@ -27,6 +27,7 @@ implement in future iterations.
 - Add keyword search
 - Add time of day search
 - Add styling for different mediatypes
+- Limit page-navbar from overflow
 
 ### Legal Notice ###
 
